@@ -1,0 +1,1 @@
+Our Goal is to perform perform exploratory data analysis using Python on music-related datasets. football is the game with the world's largest fan following. You will learn how to analyze, visualize and draw insights with Python libraries and functions.
